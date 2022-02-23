@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\RobotCleaner-master\RobotCleaner-master\JacobEbey.RobotCleaner\bin\Debug\JacobEbey.RobotCleaner.dll.config
+C:\Users\Administrator\Downloads\RobotCleaner-master\RobotCleaner-master\JacobEbey.RobotCleaner\bin\Debug\JacobEbey.RobotCleaner.dll
+C:\Users\Administrator\Downloads\RobotCleaner-master\RobotCleaner-master\JacobEbey.RobotCleaner\bin\Debug\JacobEbey.RobotCleaner.pdb
+C:\Users\Administrator\Downloads\RobotCleaner-master\RobotCleaner-master\JacobEbey.RobotCleaner\obj\Debug\JacobEbey.RobotCleaner.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\RobotCleaner-master\RobotCleaner-master\JacobEbey.RobotCleaner\obj\Debug\JacobEbey.RobotCleaner.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\RobotCleaner-master\RobotCleaner-master\JacobEbey.RobotCleaner\obj\Debug\JacobEbey.RobotCleaner.dll
+C:\Users\Administrator\Downloads\RobotCleaner-master\RobotCleaner-master\JacobEbey.RobotCleaner\obj\Debug\JacobEbey.RobotCleaner.pdb
+C:\Users\Administrator\Desktop\Robot-Movement\RobotMovementByAction\Shahnila.RobotMovement\bin\Debug\JacobEbey.RobotCleaner.dll.config
+C:\Users\Administrator\Desktop\Robot-Movement\RobotMovementByAction\Shahnila.RobotMovement\bin\Debug\JacobEbey.RobotCleaner.dll
+C:\Users\Administrator\Desktop\Robot-Movement\RobotMovementByAction\Shahnila.RobotMovement\bin\Debug\JacobEbey.RobotCleaner.pdb
+C:\Users\Administrator\Desktop\Robot-Movement\RobotMovementByAction\Shahnila.RobotMovement\obj\Debug\JacobEbey.RobotCleaner.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Robot-Movement\RobotMovementByAction\Shahnila.RobotMovement\obj\Debug\JacobEbey.RobotCleaner.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Robot-Movement\RobotMovementByAction\Shahnila.RobotMovement\obj\Debug\JacobEbey.RobotCleaner.dll
+C:\Users\Administrator\Desktop\Robot-Movement\RobotMovementByAction\Shahnila.RobotMovement\obj\Debug\JacobEbey.RobotCleaner.pdb

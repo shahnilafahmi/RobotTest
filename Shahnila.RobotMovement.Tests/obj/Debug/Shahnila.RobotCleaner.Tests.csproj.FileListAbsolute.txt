@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Robot-Movement\RobotMovementByAction\Shahnila.RobotMovement.Tests\bin\Debug\JacobEbey.RobotCleaner.Tests.dll
+C:\Users\Administrator\Desktop\Robot-Movement\RobotMovementByAction\Shahnila.RobotMovement.Tests\bin\Debug\JacobEbey.RobotCleaner.Tests.pdb
+C:\Users\Administrator\Desktop\Robot-Movement\RobotMovementByAction\Shahnila.RobotMovement.Tests\bin\Debug\JacobEbey.RobotCleaner.dll
+C:\Users\Administrator\Desktop\Robot-Movement\RobotMovementByAction\Shahnila.RobotMovement.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Administrator\Desktop\Robot-Movement\RobotMovementByAction\Shahnila.RobotMovement.Tests\bin\Debug\JacobEbey.RobotCleaner.pdb
+C:\Users\Administrator\Desktop\Robot-Movement\RobotMovementByAction\Shahnila.RobotMovement.Tests\bin\Debug\JacobEbey.RobotCleaner.dll.config
+C:\Users\Administrator\Desktop\Robot-Movement\RobotMovementByAction\Shahnila.RobotMovement.Tests\obj\Debug\Shahnila.RobotCleaner.Tests.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Robot-Movement\RobotMovementByAction\Shahnila.RobotMovement.Tests\obj\Debug\Shahnila.RobotCleaner.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Robot-Movement\RobotMovementByAction\Shahnila.RobotMovement.Tests\obj\Debug\Shahnila.RobotCleaner.Tests.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Robot-Movement\RobotMovementByAction\Shahnila.RobotMovement.Tests\obj\Debug\JacobEbey.RobotCleaner.Tests.dll
+C:\Users\Administrator\Desktop\Robot-Movement\RobotMovementByAction\Shahnila.RobotMovement.Tests\obj\Debug\JacobEbey.RobotCleaner.Tests.pdb

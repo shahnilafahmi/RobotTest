@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Robot-Movement\RobotMovementByAction\Shahnila.RobotMovement\bin\Debug\JacobEbey.RobotCleaner.dll.config
+C:\Users\Administrator\Desktop\Robot-Movement\RobotMovementByAction\Shahnila.RobotMovement\bin\Debug\JacobEbey.RobotCleaner.dll
+C:\Users\Administrator\Desktop\Robot-Movement\RobotMovementByAction\Shahnila.RobotMovement\bin\Debug\JacobEbey.RobotCleaner.pdb
+C:\Users\Administrator\Desktop\Robot-Movement\RobotMovementByAction\Shahnila.RobotMovement\obj\Debug\Shahnila.RobotMovement.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Robot-Movement\RobotMovementByAction\Shahnila.RobotMovement\obj\Debug\Shahnila.RobotMovement.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Robot-Movement\RobotMovementByAction\Shahnila.RobotMovement\obj\Debug\JacobEbey.RobotCleaner.dll
+C:\Users\Administrator\Desktop\Robot-Movement\RobotMovementByAction\Shahnila.RobotMovement\obj\Debug\JacobEbey.RobotCleaner.pdb

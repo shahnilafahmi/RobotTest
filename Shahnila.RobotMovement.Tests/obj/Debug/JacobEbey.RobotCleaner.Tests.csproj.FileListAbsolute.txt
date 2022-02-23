@@ -1,0 +1,11 @@
+C:\Users\Administrator\Downloads\RobotCleaner-master\RobotCleaner-master\JacobEbey.RobotCleaner.Tests\bin\Debug\JacobEbey.RobotCleaner.Tests.dll
+C:\Users\Administrator\Downloads\RobotCleaner-master\RobotCleaner-master\JacobEbey.RobotCleaner.Tests\bin\Debug\JacobEbey.RobotCleaner.Tests.pdb
+C:\Users\Administrator\Downloads\RobotCleaner-master\RobotCleaner-master\JacobEbey.RobotCleaner.Tests\bin\Debug\JacobEbey.RobotCleaner.dll
+C:\Users\Administrator\Downloads\RobotCleaner-master\RobotCleaner-master\JacobEbey.RobotCleaner.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Administrator\Downloads\RobotCleaner-master\RobotCleaner-master\JacobEbey.RobotCleaner.Tests\bin\Debug\JacobEbey.RobotCleaner.pdb
+C:\Users\Administrator\Downloads\RobotCleaner-master\RobotCleaner-master\JacobEbey.RobotCleaner.Tests\bin\Debug\JacobEbey.RobotCleaner.dll.config
+C:\Users\Administrator\Downloads\RobotCleaner-master\RobotCleaner-master\JacobEbey.RobotCleaner.Tests\obj\Debug\JacobEbey.RobotCleaner.Tests.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\RobotCleaner-master\RobotCleaner-master\JacobEbey.RobotCleaner.Tests\obj\Debug\JacobEbey.RobotCleaner.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\RobotCleaner-master\RobotCleaner-master\JacobEbey.RobotCleaner.Tests\obj\Debug\JacobEbey.RobotCleaner.Tests.csproj.CopyComplete
+C:\Users\Administrator\Downloads\RobotCleaner-master\RobotCleaner-master\JacobEbey.RobotCleaner.Tests\obj\Debug\JacobEbey.RobotCleaner.Tests.dll
+C:\Users\Administrator\Downloads\RobotCleaner-master\RobotCleaner-master\JacobEbey.RobotCleaner.Tests\obj\Debug\JacobEbey.RobotCleaner.Tests.pdb
