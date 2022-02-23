@@ -10,7 +10,7 @@ namespace Shahnila.RobotMovement.Applicaton
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) 
         {
            
             int commandCount = int.Parse(Console.ReadLine());
